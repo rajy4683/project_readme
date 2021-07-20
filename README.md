@@ -1,2 +1,1 @@
-# project_readme
-README files of DL projects
+# README for DL/ML related projects
