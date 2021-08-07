@@ -1,4 +1,4 @@
-# Exciting Projects on Computer Vision, MLOPs and NLP applications
+# Projects on Computer Vision, MLOPs and NLP applications
 
 1. [Depth estimation from monocular images and simultaneous mask generation](https://github.com/rajy4683/project_readme/blob/master/Project_MonoDepth.pdf)
 
