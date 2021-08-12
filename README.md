@@ -13,4 +13,4 @@
 
 3. [Project NoCoder](https://github.com/rajy4683/project_readme/blob/master/Project_NoCoDeR.pdf)
 
-   A code suggestion model based on Transformers which will provide the Python code based on user query in English. 
+   A code suggestion model based on Transformers which will generate Python code based on user query in English. 
